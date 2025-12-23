@@ -1,0 +1,42 @@
+Last week, browsing Kaggle with our Data Science and Machine Learning learners at Bildup AI Learning Center in Enugu, I found an Employee Retention dataset. It immediately resonated—my first job nicknamed me "Bug Man."
+
+The nickname stung. It reflected an environment that hadn't learned to nurture junior talent. Every bug felt magnified. Every mistake felt like proof I didn't belong. I worked long hours second-guessing every line.
+
+Six months in, I was burnt out, underpaid, and questioning my career choice.
+
+Nine months later, a friend recommended me to a Lagos company. The founder—an engineer with 18-20 years of experience—ran it differently. He debugged alongside us. Shared his codebases when we faced new tasks. Didn't just delegate and disappear.
+
+I felt safe—safe to ask questions, make mistakes, and learn.
+
+In that environment, I didn't just survive—I grew. In less than a year, I had two interns under me, reviewing their code. That taught me what great leadership is: creating space for others to find answers.
+
+Today, I'm CTO at Bildup AI, a leading AI startup in Africa. I'm sharing this because if you're a developer feeling not good enough—the data says differently.
+
+I built an Employee Retention Prediction Model using that dataset (15,000 employees). The data told a story:
+
+Employees with low satisfaction + no promotions + below-market salaries have a 52% chance of leaving within a year. My first job stats? The model predicted I'd leave with 73% probability.
+
+The insight: 43% of low-salary employees leave vs. just 7% of fairly compensated ones. Only 5% got promotions in five years; those who did had <5% turnover.
+
+The data wasn't showing me I was the problem. It was showing the environment was.
+
+What I've learned:
+
+Your early struggles don't define your ceiling. That "Bug Man" phase taught me resilience and how not to lead.
+
+The strongest retention predictor isn't talent—it's satisfaction + career progression. Employees with both stay. Those with one leave at moderate rates. Those with neither? Gone in two to three years.
+
+Growth happens in supportive environments, not hostile ones. When you invest in people's growth, pay fairly, and create clear paths—they don't just stay. They innovate and build things that matter.
+
+To developers feeling like "Bug Man/Woman":
+
+- Your mistakes don't define your potential. Every senior dev has a graveyard of bugs behind them.
+- If your environment makes you feel incompetent, it might be the environment, not you. The data backs this.
+- Growth requires safety to experiment and learn. If you don't have that, it's okay to find it elsewhere.
+- Your journey isn't linear. Mine went from "Bug Man" to CTO. Yours will have its own path.
+
+To leaders:
+
+Treating people well isn't just ethics, it's mathematically sound business strategy. Turnover costs far exceed investments in fair pay, growth opportunities, and supportive culture.
+
+Build environments where "Bug Man" becomes "Senior Engineer" instead of "Former Employee."

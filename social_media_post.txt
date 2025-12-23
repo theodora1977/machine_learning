@@ -1,0 +1,96 @@
+Last week, I was browsing Kaggle with some of our Data Science and Machine Learning learners at the Bildup AI Learning Center in Enugu, when I stumbled on an Employee Retention dataset. It caught my interest very fast because of my first work experience. I got this role as a backend developer in one company, and my nickname in that company was "Bug Man." LOL.
+
+
+
+The nickname stung, but looking back, it was just a reflection of an environment that hadn't learned how to nurture junior talent. Every bug felt magnified. Every mistake felt like evidence I didn't belong. I worked long hours trying to prove myself, second-guessing every line of code.
+
+
+
+Six months in, I was burnt out, underpaid, and questioning if I'd made the right career choice.
+
+
+
+About nine months later, a friend recommended me to a new company in Lagos. The founder—an engineer with 18-20 years of experience—ran the startup differently. He had calls with us. He debugged alongside us. When we faced tasks we'd never done before, he shared his previous codebases as references. He didn't just delegate and disappear.
+
+
+
+I felt safe—safe to ask questions, safe to make mistakes and learn from them, safe to experiment.
+
+
+
+In that environment, I didn't just survive—I grew. I built real skills. I adapted to clean code styles. In less than a year, I had two interns under me, reviewing their code and approving PRs. That experience taught me what great leadership looks like: not someone who has all the answers, but someone who creates the space for others to find them.
+
+
+
+Today, I'm the Chief Technology Officer at Bildup AI, a leading AI startup in Africa. And I'm sharing this because if you're a junior developer (or mid-level, or even senior) feeling like you're not good enough—the data says something different.
+
+
+
+
+
+So I decided to build an Employee Retention Prediction Model using that dataset I found—it contained data from 15,000 employees. And the data told a story that every developer (especially those starting out) needs to hear.
+
+
+
+The model revealed that employees with low satisfaction combined with no promotions and below-market salaries have a 52% chance of leaving within a year. When I plugged in my own stats from that first job? The model predicted I'd leave with 73% probability.
+
+
+
+Here's the insight: 43% of low-salary employees leave their companies, compared to just 7% of fairly compensated employees. Only 5% of employees across all departments received promotions in the last five years. Meanwhile, those rare employees who did get promoted? Less than 5% turnover rate.
+
+
+
+The data wasn't showing me I was the problem. It was showing me the environment was.
+
+
+
+
+
+Here's what I've learned building Bildup AI and reflecting on that journey:
+
+
+
+Your early struggles don't define your ceiling. They're just the foundation you're building from. That "Bug Man" phase? It taught me debugging, resilience, and eventually, how to build better systems. But more importantly, it taught me how not to treat developers when I became a leader.
+
+
+
+The strongest predictor of employee retention in the data isn't talent or even performance scores. It's satisfaction level combined with career progression. Employees who feel supported and see opportunities for growth stay. Those who have one without the other leave at moderate rates. Those who have neither? Gone within two to three years.
+
+
+
+This isn't about accepting mediocrity or lowering standards. It's about understanding that growth happens in supportive environments, not hostile ones. Code reviews should build skills, not tear down confidence. Mistakes should be debugging sessions, not character judgments.
+
+
+
+When you invest in people's growth, pay them fairly, and create clear paths forward—they don't just stay. They become invested. They innovate. They build things that matter.
+
+
+
+
+
+
+
+To every developer who's ever felt like "Bug Man" or "Bug Woman":
+
+
+
+- Your mistakes don't define your potential. Every senior dev you admire has a graveyard of bugs behind them.
+
+- If you're in an environment that makes you feel incompetent, it might not be you - it might be the environment. The data backs this up.
+
+- Growth requires safety to experiment, fail, and learn. If you don't have that where you are, it's okay to find it elsewhere.
+
+- Your journey isn't linear. Mine went from "Bug Man" to CTO. Yours will have its own path.
+
+
+
+And to leaders and managers:
+
+
+
+Treating people well isn't just ethics—it's mathematically sound business strategy. The cost of turnover, lost productivity, and broken team morale far exceeds the investment in fair compensation, growth opportunities, and supportive culture.
+
+
+
+Build environments where people can make mistakes AND learn from them. Where "Bug Man" becomes "Senior Engineer" instead of "Former Employee."
+
