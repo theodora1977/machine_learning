@@ -131,7 +131,6 @@ For detailed information, see the **[Complete Documentation](./DOCUMENTATION.md)
 ## 🎯 Learning Path (18 Weeks)
 
 | Week | Project | Focus Area |
-|------|---------|------------|
 | 1 | Linear Regression | Fundamentals |
 | 2 | Gradient Descent | Optimization |
 | 3 | Logistic Regression | Classification |
@@ -147,7 +146,8 @@ For detailed information, see the **[Complete Documentation](./DOCUMENTATION.md)
 | 13 | Feature Engineering | Data Preprocessing |
 | 14-15 | House Price Prediction | **Capstone Part 1** |
 | 16-17 | Medical Diagnosis | **Capstone Part 2** |
-| 18 | Shipping Calculator | Production Utility |
+| 18 | Shipping Calculator | Production Utility |-----|---------|------------|
+
 
 ## 🛠️ Technologies Used
 
