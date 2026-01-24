@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from sklearn.linear_model import LinearRegression
 import os
@@ -40,7 +41,7 @@ class PredictionRequest(BaseModel):
 
 @app.get("/")
 def read_root():
-    return {"status": "running", "message": "Zone 8 Prediction API is active. Go to /docs to test."}
+    return FileResponse(os.path.join(current_dir, "index.html"))
 
 @app.post("/predict")
 def predict_zone_8(request: PredictionRequest):
@@ -78,5 +79,9 @@ def predict_zone_8(request: PredictionRequest):
 
 if __name__ == "__main__":
     import uvicorn
+
     # Run the API on localhost port 5000
-    uvicorn.run(app, host="0.0.0.0", port=5000)
+    # This will block until you press Ctrl+C
+    print("Server is starting...")
+    print("Open this link in your browser: http://localhost:5000")
+    uvicorn.run(app, host="127.0.0.1", port=5000)
